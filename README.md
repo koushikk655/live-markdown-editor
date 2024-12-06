@@ -22,7 +22,7 @@ Follow these steps to run the Markdown editor locally:
    ```
 3. Start the server:
    ```bash
-   npm run dev
+   npm run start
    ```
    Backend runs at `http://localhost:3001`.
 
@@ -59,5 +59,5 @@ Follow these steps to run the Markdown editor locally:
 
 ---
 
-Enjoy your Real-Time Markdown Editor!
+Enjoy The Real-Time Markdown Editor!
 
